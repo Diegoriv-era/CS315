@@ -1,0 +1,6 @@
+This is project-1 in my CS-315 Data Structures class
+
+This is a bare bones social network (no special CSS formatting)
+the project traverses/tokenizes through a JSON file and creates 'users' without using any special libraries to help.
+
+Each user has some data attached to it like (name, location, profile picture, followers, following, mutual followers)
